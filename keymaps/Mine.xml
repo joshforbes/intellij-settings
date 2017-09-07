@@ -13,10 +13,17 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
+  <action id="Jdbc.RunSqlScript" />
   <action id="ParameterInfo" />
   <action id="Refresh" />
   <action id="Replace" />
   <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
