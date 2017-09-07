@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="reagan" type="PLAIN_TEXT" />
+      <mapping pattern="CNAME" type="PLAIN_TEXT" />
+      <mapping pattern="variable-data.blade.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="variable-data" type="PHP files" />
+    </extensionMap>
+  </component>
+</application>

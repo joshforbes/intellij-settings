@@ -1,0 +1,34 @@
+<templateSet group="user">
+  <template name="textfield" value="&lt;!-- $VALUE$ Form Input --&gt;&#10;&lt;div class=&quot;form-group&quot;&gt;&#10;    {!! Form::label('$NAME$', '$VALUE$: ') !!}&#10;    {!! Form::text('$NAME$', null, ['class' =&gt; 'form-control']) !!}&#10;&lt;/div&gt;" description="Form Text Field" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="false" />
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="textarea" value="&lt;!-- $VALUE$ Form Input --&gt;&#10;&lt;div class=&quot;form-group&quot;&gt;&#10;    {!! Form::label('$NAME$', '$VALUE$: ') !!}&#10;    {!! Form::textarea('$NAME$', null, ['class' =&gt; 'form-control']) !!}&#10;&lt;/div&gt;" description="Form Text Area Field" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="submitfield" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    {!! Form::submit('$VALUE$', ['class' =&gt; 'btn btn-primary form-control']) !!}&#10;&lt;/div&gt;" description="Form Submit Button" toReformat="true" toShortenFQNames="true">
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="newform" value="{!! Form::open() !!}&#10;$END$&#10;{!! Form::close() !!}" description="Create a new form" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

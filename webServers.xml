@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="63f902f1-29eb-433a-b6f3-cfc2b7f01f09" name="Brokentrap" url="http://sftp.brokentrap.com">
+        <fileTransfer host="sftp.brokentrap.com" port="2222" rootFolder="/var/www/vhosts/brokentrap.com" accessType="SFTP" password="dfcddfe4dfc0df99df9bdff4dfd8df99" username="btadmin">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
