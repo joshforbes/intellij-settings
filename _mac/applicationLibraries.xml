@@ -202,6 +202,32 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/dotenv-rails-2.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v5.0.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v5.0.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-api-5.0.4/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v5.0.4, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-transport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/elasticsearch-transport-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="erubi (v1.6.1, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/erubi-1.6.1/lib" />
@@ -246,6 +272,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/faker-1.7.3/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.13.1, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/faraday-0.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/faraday-0.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.18" />
@@ -276,6 +310,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/googlebooks-0.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.5.6, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/hashie-3.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/hashie-3.5.6/lib" />
       </SOURCES>
     </library>
     <library name="httparty (v0.15.6, rbenv: 2.4.1) [gem]">
@@ -466,12 +508,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json (v1.12.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multi_json-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multi_json-1.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, rbenv: 2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multi_xml-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="mysql2 (v0.4.9, rbenv: 2.4.1) [gem]">
@@ -794,6 +852,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="searchkick (v2.3.2, rbenv: 2.4.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/searchkick-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/searchkick-2.3.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/searchkick-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.4.1/lib/ruby/gems/2.4.0/gems/searchkick-2.3.2/benchmark" />
       </SOURCES>
     </library>
     <library name="spring (v2.0.2, rbenv: 2.4.1) [gem]">
