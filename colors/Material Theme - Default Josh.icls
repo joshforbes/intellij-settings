@@ -1,8 +1,5 @@
 <scheme name="Material Theme - Default Josh" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -1161,6 +1158,8 @@
     <option name="RUBY_EXPR_IN_STRING">
       <value />
     </option>
+    <option name="RUBY_HEREDOC_CONTENT" baseAttributes="TEXT" />
+    <option name="RUBY_HEREDOC_ID" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="RUBY_LINE_CONTINUATION">
       <value />
     </option>
