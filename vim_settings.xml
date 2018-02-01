@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" timestamp="1517495780856">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="11" />
-        <mark key="." line="21" column="11" />
-        <mark key="^" line="21" column="11" />
+      <file name="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" timestamp="1517497615995">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="30" column="64" />
+        <mark key="]" line="23" column="1" />
+        <mark key="." line="23" column="1" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="$USER_HOME$/code/vending-php/database/factories/ProductFactory.php" timestamp="1517495330731">
         <mark key="[" line="5" column="12" />
@@ -15,16 +16,35 @@
         <mark key="." line="8" column="47" />
         <mark key="^" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/routes/api.php" timestamp="1517495943058">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="5" column="52" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/code/vending-php/app/Product.php" timestamp="1517497468341">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517495903240">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/code/vending-php/routes/api.php" timestamp="1517496750403">
+        <mark key="[" line="17" column="31" />
+        <mark key="]" line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517497482853">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/tests/Unit/ProductTest.php" timestamp="1517497640394">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="24" column="42" />
+        <mark key="^" line="24" column="48" />
+        <mark key="." line="24" column="42" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Http/Requests/ProductRestockRequest.php" timestamp="1517497094410">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="$USER_HOME$/code/vending-php/database/migrations/2018_02_01_142121_create_products_table.php" timestamp="1517494997935">
         <mark key="[" line="19" column="36" />
@@ -33,37 +53,47 @@
         <mark key="^" line="19" column="36" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="26" column="42" filename="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" />
+      <jump line="30" column="14" filename="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdHMgPSBmYWN0b3J5KFByb2R1Y3Q6OmNsYXNzLCA2KS0+Y3JlYXRlKCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+cXVhbnRpdHkgKz0gJHJlcXVlc3QtPnF1YW50aXR5Owo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>refresh</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClJvdXRlOjpnZXQoJ3Rlc3QnLCBmdW5jdGlvbigpIHsKICAgIHJldHVybiBbJ3Rlc3QnID0+IHRydWVdOwp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mbG9hdCgncHJpY2UnLCAyKQo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+cmVsb2FkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mCg==</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+cmVsb2FkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAkcHJvZHVjdC0+c2F2ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0aGlzLT5yZXF1ZXN0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHByb2R1Y3QtPgo=</text>
+      </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>refresh</text>
       </register>
     </registers>
     <search>
@@ -74,6 +104,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
