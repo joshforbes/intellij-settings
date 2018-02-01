@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" timestamp="1517499619599">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="30" column="64" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="23" column="1" />
+      <file name="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" timestamp="1517517597783">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" timestamp="1517514149530">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="99" column="5" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" timestamp="1517517690610">
+        <mark key="'" line="32" column="23" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/code/vending-php/app/Product.php" timestamp="1517497468341">
         <mark key="[" line="12" column="16" />
@@ -22,11 +22,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" timestamp="1517513735433">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="76" />
-        <mark key="." line="14" column="76" />
-        <mark key="^" line="14" column="76" />
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" timestamp="1517517296233">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/code/vending-php/routes/api.php" timestamp="1517501970259">
         <mark key="[" line="19" column="35" />
@@ -40,11 +40,11 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Bank.php" timestamp="1517513699356">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="31" column="38" />
+      <file name="$USER_HOME$/code/vending-php/app/Bank.php" timestamp="1517517558622">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="124" />
+        <mark key="." line="23" column="124" />
+        <mark key="^" line="23" column="124" />
       </file>
       <file name="$USER_HOME$/code/vending-php/app/Http/Requests/ProductRestockRequest.php" timestamp="1517497094410">
         <mark key="[" line="26" column="27" />
@@ -52,7 +52,7 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Requests/PurchaseProductRequest.php" timestamp="1517513918937">
+      <file name="$USER_HOME$/code/vending-php/app/Http/Requests/PurchaseProductRequest.php" timestamp="1517517271020">
         <mark key="'" line="25" column="15" />
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="29" />
@@ -64,6 +64,12 @@
         <mark key="]" line="16" column="46" />
         <mark key="^" line="16" column="46" />
         <mark key="." line="16" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Exceptions/ShortChangeBankException.php" timestamp="1517516258566">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="$USER_HOME$/code/vending-php/database/factories/ProductFactory.php" timestamp="1517495330731">
         <mark key="[" line="5" column="12" />
@@ -83,17 +89,28 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/tests/Unit/BankTest.php" timestamp="1517513565624">
+      <file name="$USER_HOME$/code/vending-php/tests/Unit/BankTest.php" timestamp="1517517717490">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="32" />
+        <mark key="." line="52" column="35" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/tests/TestCase.php" timestamp="1517517641124">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
-        <mark key="^" line="82" column="49" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517506207156">
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517517138183">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
         <mark key="^" line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Exceptions/Handler.php" timestamp="1517517049102">
+        <mark key="[" line="51" column="69" />
+        <mark key="]" line="51" column="71" />
+        <mark key="." line="51" column="71" />
+        <mark key="^" line="51" column="71" />
       </file>
       <file name="$USER_HOME$/code/vending-php/database/migrations/2018_02_01_142121_create_products_table.php" timestamp="1517494997935">
         <mark key="[" line="19" column="36" />
@@ -115,41 +132,41 @@
       <jump line="19" column="39" filename="$USER_HOME$/code/vending-php/app/Bank.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>fuction</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgcHJvZHVjdHMKICAgICAgICAkcHJvZHVjdCA9IGZhY3RvcnkoUHJvZHVjdDo6Y2xhc3MpLT5jcmVhdGUoWwogICAgICAgICAgICAnbmFtZScgPT4gJ1NuaWNrZXJzJywKICAgICAgICAgICAgJ3F1YW50aXR5JyA9PiAxMCwKICAgICAgICAgICAgJ3ByaWNlJyA9PiA1NgogICAgICAgIF0pOwoKICAgICAgICAvLyBjcmVhdGUgYmFuawogICAgICAgIC8vIEB0b2RvIGNyZWF0ZSB0ZXN0IGhlbHBlcgogICAgICAgIGZhY3RvcnkoQmFuazo6Y2xhc3MsICdxdWFydGVyJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gNQogICAgICAgIF0pOwogICAgICAgIGZhY3RvcnkoQmFuazo6Y2xhc3MsICdkaW1lJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gMjAKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAnbmlja2VsJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gNTAKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAncGVubnknKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3F1YW50aXR5JyA9PiAxMDAKICAgICAgICBdKTsKCiAgICAgICAgLy8gaGl0IGVuZHBvaW50CiAgICAgICAgJHJlcXVlc3QgPSAkdGhpcy0+cG9zdCgnL2FwaS9wdXJjaGFzZS8nIC4gJHByb2R1Y3QtPmlkLCBbCiAgICAgICAgICAgICdjb2lucycgPT4gWwogICAgICAgICAgICAgICAgMjUsCiAgICAgICAgICAgICAgICAyNSwKICAgICAgICAgICAgICAgIDI1CiAgICAgICAgICAgIF0KICAgICAgICBdKTsKCiAgICAgICAgLy8gdmVyaWZ5IGNoYW5nZSBhbmQgcHJvZHVjdAogICAgICAgICRyZXF1ZXN0LT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgJ3Byb2R1Y3QnID0+ICRwcm9kdWN0LT5mcmVzaCgpLT50b0FycmF5KCksCiAgICAgICAgICAgICdjb2lucycgPT4gWwogICAgICAgICAgICAgICAgMTAsIDUsIDEsIDEsIDEsIDEKICAgICAgICAgICAgXQogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y3JlYXRlQmFuayg1LCAyMCwgNTAsIDEwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gY3JlYXRlIGJhbmsKICAgICAgICAvLyBAdG9kbyBjcmVhdGUgdGVzdCBoZWxwZXIKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAncXVhcnRlcicpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDUKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAnZGltZScpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDIwCiAgICAgICAgXSk7CiAgICAgICAgZmFjdG9yeShCYW5rOjpjbGFzcywgJ25pY2tlbCcpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDUwCiAgICAgICAgXSk7CiAgICAgICAgZmFjdG9yeShCYW5rOjpjbGFzcywgJ3Blbm55JyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gMTAwCiAgICAgICAgXSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGV4Y2VwdGlvbiBpbnN0YW5jZW9mIFNob3J0Q2hhbmdlQmFua0V4Y2VwdGlvbikgewogICAgICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGV4Y2VwdGlvbiBpbnN0YW5jZW9mIFNob3J0Q2hhbmdlQmFua0V4Y2VwdGlvbikgewogICAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwLCA1LCAxLCAxLCAxLCAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFskZXhjZXB0aW9uLT5nZXRdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDI1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCYW5rOjpkZWR1Y3QoWwogICAgICAgICAgICAgICAgMTAsIDEwLCAxMCwgNSwgMSwgMSwgMSwgMQogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICBkIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hhbmdlTWFkZSA9IDsKICAgICAgICAkMQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiB0ZXN0UHVyY2hhc2VXaXRob3V0RW5vdWdoQmFua0NoYW5nZSgpCiAgICB7CgogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
+        <text encoding="base64">dXNlIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -184,6 +201,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
