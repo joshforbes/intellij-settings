@@ -10,12 +10,11 @@
         <mark key="." line="23" column="1" />
         <mark key="^" line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" timestamp="1517502335146">
-        <mark key="'" line="43" column="23" />
-        <mark key="[" line="52" column="42" />
-        <mark key="]" line="52" column="52" />
-        <mark key="." line="52" column="52" />
-        <mark key="^" line="52" column="52" />
+      <file name="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" timestamp="1517514149530">
+        <mark key="'" line="44" column="23" />
+        <mark key="[" line="99" column="5" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/code/vending-php/app/Product.php" timestamp="1517497468341">
         <mark key="[" line="12" column="16" />
@@ -23,11 +22,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" timestamp="1517502295281">
-        <mark key="[" line="14" column="9" />
-        <mark key="]" line="13" column="24" />
-        <mark key="." line="13" column="24" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" timestamp="1517513735433">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="76" />
+        <mark key="." line="14" column="76" />
+        <mark key="^" line="14" column="76" />
       </file>
       <file name="$USER_HOME$/code/vending-php/routes/api.php" timestamp="1517501970259">
         <mark key="[" line="19" column="35" />
@@ -35,16 +34,17 @@
         <mark key="^" line="19" column="55" />
         <mark key="." line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/tests/Unit/ProductTest.php" timestamp="1517499622402">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/code/vending-php/tests/Unit/ProductTest.php" timestamp="1517513256472">
+        <mark key="[" line="25" column="5" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="23" column="31" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Bank.php" timestamp="1517500940741">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/code/vending-php/app/Bank.php" timestamp="1517513699356">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="31" column="38" />
       </file>
       <file name="$USER_HOME$/code/vending-php/app/Http/Requests/ProductRestockRequest.php" timestamp="1517497094410">
         <mark key="[" line="26" column="27" />
@@ -52,10 +52,12 @@
         <mark key="." line="26" column="33" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Requests/PurchaseProductRequest.php" timestamp="1517502219100">
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/code/vending-php/app/Http/Requests/PurchaseProductRequest.php" timestamp="1517513918937">
+        <mark key="'" line="25" column="15" />
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="15" />
       </file>
       <file name="$USER_HOME$/code/vending-php/database/migrations/2018_02_01_153653_create_bank_table.php" timestamp="1517499562591">
         <mark key="[" line="16" column="37" />
@@ -75,7 +77,19 @@
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517497803416">
+      <file name="$USER_HOME$/code/vending-php/app/Providers/AppServiceProvider.php" timestamp="1517514019654">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="17" column="40" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/tests/Unit/BankTest.php" timestamp="1517513565624">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="82" column="49" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517506207156">
         <mark key="[" line="18" column="7" />
         <mark key="]" line="29" column="3" />
         <mark key="." line="29" column="3" />
@@ -95,46 +109,50 @@
       <jump line="29" column="27" filename="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" />
       <jump line="49" column="28" filename="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" />
       <jump line="41" column="23" filename="$USER_HOME$/code/vending-php/tests/Feature/PurchaseTest.php" />
+      <jump line="9" column="44" filename="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" />
+      <jump line="26" column="15" filename="$USER_HOME$/code/vending-php/app/Http/Requests/PurchaseProductRequest.php" />
+      <jump line="15" column="16" filename="$USER_HOME$/code/vending-php/app/Http/Controllers/PurchaseController.php" />
+      <jump line="19" column="39" filename="$USER_HOME$/code/vending-php/app/Bank.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgViBSdWxlOjpleGlzdHMoJ2JhbmsnKS0+d2hlcmUoZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndmFsdWUnLCAxKTsKICAgICAgICAgICAgICAgIH0pCg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>value</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDI1LAo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgViBSdWxlOjpleGlzdHMoJ2JhbmsnKS0+d2hlcmUoZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndmFsdWUnLCAxKTsKICAgICAgICAgICAgICAgIH0pCg==</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZnVuY3Rpb24oJHF1ZXJ5KSB7CiAgICAgICAgICAgICAgICAgICAgJHF1ZXJ5LT53aGVyZSgndmFsdWUnLCAkdmFsdWUpOwogICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnbnVtZXJpY3xleGlzdHM6YmFuayx2YWx1ZScK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqawo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcSHR0cFxSZXF1ZXN0Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="-" type="4">
+        <text>fuction</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBjcmVhdGUgcHJvZHVjdHMKICAgICAgICAkcHJvZHVjdCA9IGZhY3RvcnkoUHJvZHVjdDo6Y2xhc3MpLT5jcmVhdGUoWwogICAgICAgICAgICAnbmFtZScgPT4gJ1NuaWNrZXJzJywKICAgICAgICAgICAgJ3F1YW50aXR5JyA9PiAxMCwKICAgICAgICAgICAgJ3ByaWNlJyA9PiA1NgogICAgICAgIF0pOwoKICAgICAgICAvLyBjcmVhdGUgYmFuawogICAgICAgIC8vIEB0b2RvIGNyZWF0ZSB0ZXN0IGhlbHBlcgogICAgICAgIGZhY3RvcnkoQmFuazo6Y2xhc3MsICdxdWFydGVyJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gNQogICAgICAgIF0pOwogICAgICAgIGZhY3RvcnkoQmFuazo6Y2xhc3MsICdkaW1lJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gMjAKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAnbmlja2VsJyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gNTAKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAncGVubnknKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ3F1YW50aXR5JyA9PiAxMDAKICAgICAgICBdKTsKCiAgICAgICAgLy8gaGl0IGVuZHBvaW50CiAgICAgICAgJHJlcXVlc3QgPSAkdGhpcy0+cG9zdCgnL2FwaS9wdXJjaGFzZS8nIC4gJHByb2R1Y3QtPmlkLCBbCiAgICAgICAgICAgICdjb2lucycgPT4gWwogICAgICAgICAgICAgICAgMjUsCiAgICAgICAgICAgICAgICAyNSwKICAgICAgICAgICAgICAgIDI1CiAgICAgICAgICAgIF0KICAgICAgICBdKTsKCiAgICAgICAgLy8gdmVyaWZ5IGNoYW5nZSBhbmQgcHJvZHVjdAogICAgICAgICRyZXF1ZXN0LT5hc3NlcnRKc29uKFsKICAgICAgICAgICAgJ3Byb2R1Y3QnID0+ICRwcm9kdWN0LT5mcmVzaCgpLT50b0FycmF5KCksCiAgICAgICAgICAgICdjb2lucycgPT4gWwogICAgICAgICAgICAgICAgMTAsIDUsIDEsIDEsIDEsIDEKICAgICAgICAgICAgXQogICAgICAgIF0pOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gY3JlYXRlIGJhbmsKICAgICAgICAvLyBAdG9kbyBjcmVhdGUgdGVzdCBoZWxwZXIKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAncXVhcnRlcicpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDUKICAgICAgICBdKTsKICAgICAgICBmYWN0b3J5KEJhbms6OmNsYXNzLCAnZGltZScpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDIwCiAgICAgICAgXSk7CiAgICAgICAgZmFjdG9yeShCYW5rOjpjbGFzcywgJ25pY2tlbCcpLT5jcmVhdGUoWwogICAgICAgICAgICAncXVhbnRpdHknID0+IDUwCiAgICAgICAgXSk7CiAgICAgICAgZmFjdG9yeShCYW5rOjpjbGFzcywgJ3Blbm55JyktPmNyZWF0ZShbCiAgICAgICAgICAgICdxdWFudGl0eScgPT4gMTAwCiAgICAgICAgXSk7</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDEwLCA1LCAxLCAxLCAxLCAxCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDI1Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBCYW5rOjpkZWR1Y3QoWwogICAgICAgICAgICAgICAgMTAsIDEwLCAxMCwgNSwgMSwgMSwgMSwgMQogICAgICAgICAgICBdKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBqawo=</text>
+        <text encoding="base64">ICAgICAgICAkY2hhbmdlTWFkZSA9IDsKICAgICAgICAkMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcRm91bmRhdGlvblxUZXN0aW5nXFdpdGhGYWtlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -145,6 +163,7 @@
       <history-search />
       <history-cmd>
         <entry>17</entry>
+        <entry>w</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
