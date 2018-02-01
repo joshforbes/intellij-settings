@@ -1,0 +1,83 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/code/vending-php/tests/Feature/ProductTest.php" timestamp="1517495780856">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="11" />
+        <mark key="." line="21" column="11" />
+        <mark key="^" line="21" column="11" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/database/factories/ProductFactory.php" timestamp="1517495330731">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/routes/api.php" timestamp="1517495943058">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/app/Http/Controllers/ProductController.php" timestamp="1517495903240">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/vending-php/database/migrations/2018_02_01_142121_create_products_table.php" timestamp="1517494997935">
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="36" />
+        <mark key="." line="19" column="36" />
+        <mark key="^" line="19" column="36" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ClJvdXRlOjpnZXQoJ3Rlc3QnLCBmdW5jdGlvbigpIHsKICAgIHJldHVybiBbJ3Rlc3QnID0+IHRydWVdOwp9KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mbG9hdCgncHJpY2UnLCAyKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5mCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkcmVxdWVzdCA9ICR0aGlzLT5yZXF1ZXN0Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSh0cnVlKTsK</text>
+      </register>
+      <register name="-" type="4">
+        <text>j</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
+  </component>
+</application>
